@@ -1,0 +1,25 @@
+.title {
+  text-align: center;
+  color: red;
+  font-family: Garamond;
+}
+
+.column {
+  float: left;
+  width: 200px;
+  padding: 50px;
+}
+
+.profile {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.profile img {
+  width: 200px;
+  height: 300px;
+}
+
+.profile h3 {
+  color: red;
+}
